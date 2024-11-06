@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebase-example</string>
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID_HERE</string>
+    <string name="profile_image">profile image</string>
+    <string name="logout">logout</string>
+    <string name="edit">edit</string>
+    <string name="save">save</string>
+    <string name="display_name">display name</string>
+    <string name="email">email</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
